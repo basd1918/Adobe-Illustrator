@@ -1,4 +1,4 @@
-# Adobe-Illustrator
+# Adobe Illustrator
 
 Just a Hobby
 
